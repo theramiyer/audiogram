@@ -103,13 +103,15 @@
     "backgroundImage": "nyc.png"
   },
   "Ram Speaks": {
-    "width": 720,
-    "height": 720,
-    "waveTop": 50,
-    "waveBottom": 250,
-    "samplesPerFrame": 64,
+    "framesPerSecond": 24,
     "pattern": "curve",
-    "foregroundColor": "#fff",
+    "waveTop": 300,
+    "waveBottom": 570,
+    "foregroundColor": "#ffd900",
     "backgroundImage": "ramspeakswide.svg",
+    "maxDuration": 900,
+    "captionFont": "bold 52px 'Alegreya Sans'",
+    "captionColor": "#fff",
+    "captionTop": 570
   }
 }

@@ -110,6 +110,6 @@
     "samplesPerFrame": 64,
     "pattern": "curve",
     "foregroundColor": "#fff",
-    "backgroundImage": "ramspeaks.png"
+    "backgroundImage": "ramspeakswide.svg",
   }
 }

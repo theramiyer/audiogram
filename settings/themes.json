@@ -110,9 +110,11 @@
     "foregroundColor": "#ffd900",
     "backgroundImage": "ramspeakswide.svg",
     "maxDuration": 900,
-    "captionFont": "bold 50px 'Alegreya Sans'",
+    "captionFont": "bold 72px 'Alegreya Sans'",
     "captionColor": "#fff",
-    "captionTop": 620,
+    "captionTop": 90,
+    "captionLineHeight": 72,
+    "captionLineSpacing": 9,
     "captionAlign": "right",
     "captionLeft": 350,
     "captionRight": 1200

@@ -110,8 +110,11 @@
     "foregroundColor": "#ffd900",
     "backgroundImage": "ramspeakswide.svg",
     "maxDuration": 900,
-    "captionFont": "bold 52px 'Alegreya Sans'",
+    "captionFont": "bold 50px 'Alegreya Sans'",
     "captionColor": "#fff",
-    "captionTop": 570
+    "captionTop": 620,
+    "captionAlign": "right",
+    "captionLeft": 350,
+    "captionRight": 1200
   }
 }

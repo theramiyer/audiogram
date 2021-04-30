@@ -118,5 +118,24 @@
     "captionAlign": "right",
     "captionLeft": 350,
     "captionRight": 1200
+  },
+  "The Shani–Ram Show": {
+    "width": 720,
+    "height": 720,
+    "framesPerSecond": 30,
+    "pattern": "roundBars",
+    "waveTop": 480,
+    "waveBottom": 680,
+    "foregroundColor": "#fff",
+    "backgroundImage": "shani-ram-show.jpg",
+    "maxDuration": 90,
+    "captionFont": "800 72px Montserrat",
+    "captionColor": "#fff",
+    "captionTop": 40,
+    "captionLineHeight": 72,
+    "captionLineSpacing": 9,
+    "captionAlign": "left",
+    "captionLeft": 10,
+    "captionRight": 480
   }
 }
